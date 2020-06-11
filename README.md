@@ -3,6 +3,7 @@
 
 # Frontend Mentor - Intro component with sign up form Challenge
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef9d6322-eef7-4c0f-af63-04a3729a5d72/deploy-status)](https://app.netlify.com/sites/intro-landing-frontendmentor/deploys)
 
 ![FrontEnd Mentor challenge](images/frontend-comp.png )
 
@@ -23,7 +24,7 @@ The challenge was to build out this introductory component and get it looking as
 * NPM
 * BEM METHODOLOGY 
 
-**Link to published page:** https://simeon4real.github.io/Frontendmentor-challenge/
+**Link to published page:** https://intro-landing-frontendmentor.netlify.app/
 
 
 
